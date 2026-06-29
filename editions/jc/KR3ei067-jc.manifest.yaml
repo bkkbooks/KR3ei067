@@ -1,0 +1,283 @@
+canonical_identifier: bkk:krp/KR3ei067/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei067/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高淑濂胎產方案
+  identifiers:
+    krp: KR3ei067
+  tags:
+    kr-categories: KR3ei
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei067.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei067_000-jc.yaml, hash: 'sha256:79efb68e0f10c8b777a83f69c4e84f6b9d9af509e51a95ac1714ffc68f98088a'}
+  - {seq: 1, filename: KR3ei067_001-jc.yaml, hash: 'sha256:4689e2b267c70ab4744b30298fdb36e55132e040b81cc18bb2038252876da91d'}
+  - {seq: 2, filename: KR3ei067_002-jc.yaml, hash: 'sha256:e6b99ef519128aca972a58d767c6e904760a22b2b323dc961e6264a1c4219f41'}
+  - {seq: 3, filename: KR3ei067_003-jc.yaml, hash: 'sha256:3318934f1c530ade0a523a4a9b9fddd78e08d62aa0d9792a713a187745f6d810'}
+  - {seq: 4, filename: KR3ei067_004-jc.yaml, hash: 'sha256:56ad975eec4f9b0299b472aed9b77e99b6cb8545a64dbe2b1c7da2e97d49f1d1'}
+  - {seq: 0, filename: KR3ei067_000-jc.yaml, hash: 'sha256:fedc5fae0e90e306f88c2c9e4978abcfbba07f5219e91a99f97f2efd3b42071e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei067_000-jc.markers.yaml, hash: 'sha256:2b057cf1c6d4aac437b0e650b43a9584b40448ee532b6c289e2d3e4bb1588374'}
+  - {seq: 1, role: markers, filename: assets/KR3ei067_001-jc.markers.yaml, hash: 'sha256:e8556bf035d4eb91d3b92add31c97d1d79ae98b18d001ec62d8946305e1fc1ab'}
+  - {seq: 2, role: markers, filename: assets/KR3ei067_002-jc.markers.yaml, hash: 'sha256:92bfbe86c0dca266e434850ced8c052554b7287f489b8e1e96f85c2cdb136fd2'}
+  - {seq: 3, role: markers, filename: assets/KR3ei067_003-jc.markers.yaml, hash: 'sha256:e545c020bf2c168194216ce3c38c95bba7ccee0a9e89e57088f16812f66b2ca2'}
+  - {seq: 4, role: markers, filename: assets/KR3ei067_004-jc.markers.yaml, hash: 'sha256:18e77491122f3b4d49a67ee47f695d688ac00d79788a2d03ab2c037366d5b855'}
+  - {seq: 0, role: markers, filename: assets/KR3ei067_000-jc.markers.yaml, hash: 'sha256:2b057cf1c6d4aac437b0e650b43a9584b40448ee532b6c289e2d3e4bb1588374'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 774
+  label: 高淑濂胎產方案序原名秘書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d3.h1s1
+    span:
+    - front
+    - 774
+    - 1054
+  label: 高淑濂胎產方案序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d7.h1s1
+    span:
+    - front
+    - 1054
+    - 1424
+  label: 高氏胎產方案序言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d8.h1s1
+    span:
+    - front
+    - 1424
+    - 1997
+  label: 胎產方案序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d11.h1s1
+    span:
+    - front
+    - 1997
+    - 2513
+  label: 胎產方案序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d13.h1s1
+    span:
+    - front
+    - 2513
+    - 2788
+  label: 高氏胎產方案序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d14.h1s1
+    span:
+    - front
+    - 2788
+    - 3010
+  label: 高氏胎產方案前序原名秘書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d15.h1s1
+    span:
+    - front
+    - 3010
+    - 3403
+  label: 高氏胎產方案序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 369
+  label: 高淑濂胎產方案敘言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d5.h1s1
+    span:
+    - body
+    - 369
+    - 491
+  label: 高氏胎產方案聯語
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d6.h1s1
+    span:
+    - body
+    - 491
+    - 748
+  label: 胎產方案商篆聯語記
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d9.h1s1
+    span:
+    - body
+    - 748
+    - 994
+  label: 讀高氏胎產方案記
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d10.h1s1
+    span:
+    - body
+    - 994
+    - 1566
+  label: 胎產方案敘言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d12.h1s1
+    span:
+    - body
+    - 1566
+    - 1858
+  label: 胎產方案弁言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d16.h1s1
+    span:
+    - body
+    - 1858
+    - 2685
+  label: 高淑濂先生小傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d17.h1s1
+    span:
+    - body
+    - 2685
+    - 3778
+  label: 淑濂子年譜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d18.h1s1
+    span:
+    - body
+    - 3778
+    - 4018
+  label: 例言
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei067_jc_001-d19.h1s1
+    span:
+    - body
+    - 0
+    - 8522
+  label: 高氏胎產方案卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei067_jc_002-d20.h1s1
+    span:
+    - body
+    - 0
+    - 3677
+  label: 高氏胎產方案卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei067_jc_003-d21.h1s1
+    span:
+    - body
+    - 0
+    - 11368
+  label: 高氏胎產方案卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ei067_jc_004-d22.h1s1
+    span:
+    - body
+    - 0
+    - 9147
+  label: 高氏胎產方案卷四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d24.h1s1
+    span:
+    - front
+    - 0
+    - 304
+  label: 高氏胎產方案後序原名秘書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d23.h1s1
+    span:
+    - body
+    - 0
+    - 1526
+  label: 保嬰全書附胎產方案後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d25.h1s1
+    span:
+    - body
+    - 1526
+    - 1697
+  label: 讀高氏胎產方案贅言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei067_jc_000-d26.h1s1
+    span:
+    - body
+    - 1697
+    - 2529
+  label: 胎產方案說
+  type: section
+  level: 1
+hash: sha256:b417b18d75b85dac0c9503cfd191e570a92ab88d6fd4b805f38abf0311abd515
